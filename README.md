@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @midways
-- 🌱 I’m currently learning JavaScript
+- ✨ Hi, I’m @midways / Noah
+- ✨ I’m currently learning Frontend stuff 
 
 <!---
 midways/midways is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
