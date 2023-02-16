@@ -1,5 +1,4 @@
-- ✨ Hi, I’m @midways / Noah
-- ✨ I’m currently learning Frontend stuff 
+existence::*
 
 <!---
 midways/midways is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
